@@ -7,7 +7,7 @@ Hi, I'm Yassine
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Computer+Engineering+Student;Deep+Learning+Enthusiast;Web+Dev">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Computer+Engineering+Student;Deep+Learning+Enthusiast;Web+Dev;Clean+Code+Evangelist">
   </a>
 </p>
 
@@ -21,127 +21,69 @@ Hi, I'm Yassine
 🔭 I have a strong interest in Data Science and Artificial Intelligence
 💻 Working on Deep Learning & Machine Learning projects
 🌱 Learning about Computer Vision and Deep Learning stuff
-🤔 I’m currently open for an <b>Intern</b></a>
 </pre>
+---
 
-## 🛠 Skills
-<br>
+## Languages
 
-- ### Programming Languages
-
-<div align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<p>
+    <a target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=3776AB"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <a target="_blank">
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <a target="_blank">
+        <img alt="Java" src="https://img.shields.io/badge/-Java-%2312100E.svg?logo=Java&logoColor=blue&style=for-the-badge"/>
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <a target="_blank">
+        <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%2312100E.svg?&logo=Javascript&style=for-the-badge&logoColor=F7DF1E"/>
     </a>
-</div>
-
-- ### AI/ML
-
-<div align="center">
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">  
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <a target="_blank">
+        <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%2312100E.svg?&logo=Typescript&style=for-the-badge&logoColor=3178C6"/>
     </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    <a target="_blank">
+        <img alt="ccplusplus" src="https://img.shields.io/badge/C++-%2312100E.svg?&logo=cplusplus&style=for-the-badge&logoColor=00599C"/>
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a>
-</div>
-
-- ### Frontend Development
-
-<div align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-</div>
-
-- ### Backend Development
-
-<div align="center">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
-</div>
-
-- ### Database
-
-<div align="center">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-</div>
-
-- ### Framework
-
-<div align="center">
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-    </a>
-</div>
-
-<br>
-
-
-## 📊 Stats
-
-<br>
-
-<p align= "center">
-  <img height= "170" src="https://github-readme-stats.vercel.app/api?username=yassine-rd&theme=tokyonight&title_color=4eaadf&show_icons=true&include_all_commits=true" />
-  <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-rd&theme=tokyonight&title_color=4eaadf&langs_count=6&layout=compact&hide=yacc,gdscript" />
 </p>
 
-## 💬 Get in touch
+## Technologies
 
-<div align="center">
+#### Data Science and ML
 
-<br>
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=44A833)
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine.rodani@gmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-rodani/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yassine_rd_)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCminaYgqTyGUMeDF8Ew26Bw)
+#### Web Development
+
+![HTML](https://img.shields.io/badge/HTML-%2312100E?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-%2312100E?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%2312100E.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
+![Angular](https://img.shields.io/badge/-Angular-%2312100E.svg?&logo=Angular&style=for-the-badge&logoColor=E23237)
+![React](https://img.shields.io/badge/-React-%2312100E.svg?&logo=React&style=for-the-badge)
+
+#### Frameworks
+
+![Django](https://img.shields.io/badge/Django-%2312100E?style=for-the-badge&logo=DJango&logoColor=68BC71)
+![Flask](https://img.shields.io/badge/Flask-%2312100E?style=for-the-badge&logo=Flask&logoColor=white)
+
+---
+
+## Get in touch
+
+<a href="mailto:yassine.rodani@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://www.linkedin.com/in/yassine-rodani/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=0078D2"/>
+</a>
+<a href="https://twitter.com/yassine_rd_" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-twitter-%2312100E.svg?logo=twitter&logoColor=1DA1F2&style=for-the-badge"/>
+</a>
+<a href="https://www.youtube.com/channel/UCminaYgqTyGUMeDF8Ew26Bw" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Youtube-%2312100E.svg?style=for-the-badge&logo=Youtube&logoColor=EA4335"/>
+</a>
