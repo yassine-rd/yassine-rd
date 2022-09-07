@@ -19,8 +19,8 @@ Hi, I'm Yassine
 <pre>
 📚 I'm Currently studying Computer Science at University Haute-Alsace in France
 🔭 I have a strong interest in Data Science and Artificial Intelligence
-💻 Working on Deep Learning & Machine Learning projects
-🌱 Learning about Computer Vision and Deep Learning stuff
+💻 Working on Deep Learning & Web projects
+🌱 Learning about MLOps and Computer Vision stuff
 </pre>
 ---
 
