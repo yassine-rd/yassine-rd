@@ -21,6 +21,7 @@ Hi, I'm Yassine
 🔭 I have a strong interest in Data Science and Artificial Intelligence
 💻 Working on Deep Learning & Web projects
 🌱 Learning about MLOps and Computer Vision stuff
+📬 How to reach me: yassine.rodani@gmail.com
 </pre>
 ---
 
@@ -73,11 +74,8 @@ Hi, I'm Yassine
 
 ---
 
-## Get in touch
+## Follow me
 
-<a href="mailto:yassine.rodani@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
 <a href="https://www.linkedin.com/in/yassine-rodani/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=0078D2"/>
 </a>
@@ -86,4 +84,7 @@ Hi, I'm Yassine
 </a>
 <a href="https://www.youtube.com/channel/UCminaYgqTyGUMeDF8Ew26Bw" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Youtube-%2312100E.svg?style=for-the-badge&logo=Youtube&logoColor=EA4335"/>
+</a>
+<a href="https://www.kaggle.com/yassinerodani" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-kaggle-%2312100E.svg?logo=kaggle&logoColor=blue&style=for-the-badge&logoColor=20BEFF"/>
 </a>
