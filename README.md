@@ -21,7 +21,7 @@ Hi, I'm Yassine
 🔭 I have a strong interest in Data Science and Artificial Intelligence
 💻 Working on Deep Learning & Web projects
 🌱 Learning about MLOps and Computer Vision stuff
-📬 How to reach me: yassine.rodani@gmail.com
+📬 How to reach me: <a href="mailto:yassine.rodani@gmail.com">yassine.rodani@gmail.com</a>
 </pre>
 ---
 
