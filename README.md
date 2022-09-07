@@ -57,7 +57,6 @@ Hi, I'm Yassine
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2312100E.svg?style=for-the-badge&logo=anaconda&logoColor=44A833)
 
 #### Web Development
 
