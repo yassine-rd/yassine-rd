@@ -56,7 +56,8 @@ Hi, I'm Yassine
 ![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=NumPy&logoColor=0c6678)
+![OpenCV](https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=OpenCV&logoColor=5c7ce8)
 
 #### Web Development
 
