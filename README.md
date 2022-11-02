@@ -7,7 +7,7 @@ Hi, I'm Yassine
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Computer+Engineering+Student;Deep+Learning+Enthusiast;Web+Dev;Clean+Code+Evangelist">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Computer+Science+Student;Deep+Learning+Enthusiast;Web+Dev;Clean+Code+Evangelist">
   </a>
 </p>
 
