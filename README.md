@@ -19,8 +19,8 @@ Hi, I'm Yassine
 <pre>
 📚 I'm Currently studying Computer Science at University Haute-Alsace in France
 🔭 I have a strong interest in Data Science and Artificial Intelligence
-💻 Working on Deep Learning & Web projects
-🌱 Learning about MLOps and Computer Vision stuff
+💻 Working on Deep Learning & Computer Vision projects
+🌱 Learning about MLOps and Advanced Computer Vision stuff
 📬 How to reach me: <a href="mailto:yassine.rodani@gmail.com">yassine.rodani@gmail.com</a>
 </pre>
 ---
@@ -65,7 +65,6 @@ Hi, I'm Yassine
 ![CSS](https://img.shields.io/badge/CSS-%2312100E?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2312100E.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 ![Angular](https://img.shields.io/badge/-Angular-%2312100E.svg?&logo=Angular&style=for-the-badge&logoColor=E23237)
-![React](https://img.shields.io/badge/-React-%2312100E.svg?&logo=React&style=for-the-badge)
 
 #### Frameworks
 
