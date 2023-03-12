@@ -17,10 +17,10 @@ Hi, I'm Yassine
 </div>
 
 <pre>
-📚 I'm Currently studying Computer Science at University Haute-Alsace in France
-🔭 I have a strong interest in Data Science and Artificial Intelligence
-💻 Working on Deep Learning & Computer Vision projects
-🌱 Learning about MLOps and Advanced Computer Vision stuff
+📚 I'm currently working as a Data Science Intern @Groupe-SII in France
+🔭 I have a strong interest in Artificial Intelligence
+🧠 Paddling through the ocean that is Deep Learning
+🌱 Learning about MLOps and advanced Computer Vision stuff
 📬 How to reach me: <a href="mailto:yassine.rodani@gmail.com">yassine.rodani@gmail.com</a>
 </pre>
 ---
