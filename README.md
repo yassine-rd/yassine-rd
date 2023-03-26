@@ -7,7 +7,7 @@ Hi, I'm Yassine
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Data+Science+Intern;AI+Developer;Deep+Learning+Enthusiast;Clean+Code+Evangelist">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Data+Scientist+Intern;AI+Developer;Deep+Learning+Enthusiast;Clean+Code+Evangelist">
   </a>
 </p>
 
@@ -17,7 +17,7 @@ Hi, I'm Yassine
 </div>
 
 <pre>
-📚 I'm currently working as a Data Science Intern @Groupe-SII in France
+📚 I'm currently working as a Data Scientist Intern @Groupe-SII in France
 🔭 I have a strong interest in Artificial Intelligence
 🧠 Paddling through the ocean that is Deep Learning
 🌱 Learning about MLOps and advanced Computer Vision stuff
@@ -29,24 +29,28 @@ Hi, I'm Yassine
 
 <p>
     <a target="_blank">
-        <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=3776AB"/>
+        <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/>
     </a>
     <a target="_blank">
         <img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>
     <a target="_blank">
+        <img alt="r" src="https://img.shields.io/badge/r-%2312100E.svg?&logo=r&style=for-the-badge&logoColor=00599C"/>
+    </a>
+    <a target="_blank">
+        <img alt="Bash" src="https://img.shields.io/badge/Bash-%2312100E.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a target="_blank">
         <img alt="Java" src="https://img.shields.io/badge/-Java-%2312100E.svg?logo=Java&logoColor=blue&style=for-the-badge"/>
     </a>
     <a target="_blank">
-        <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%2312100E.svg?&logo=Javascript&style=for-the-badge&logoColor=F7DF1E"/>
+        <img alt="Typescript" src="https://img.shields.io/badge/Swift-%2312100E.svg?&logo=swift&style=for-the-badge&logoColor=3178C6"/>
     </a>
     <a target="_blank">
-        <img alt="Typescript" src="https://img.shields.io/badge/Typescript-%2312100E.svg?&logo=Typescript&style=for-the-badge&logoColor=3178C6"/>
-    </a>
-    <a target="_blank">
-        <img alt="ccplusplus" src="https://img.shields.io/badge/C++-%2312100E.svg?&logo=cplusplus&style=for-the-badge&logoColor=00599C"/>
+        <img alt="C++" src="https://img.shields.io/badge/Csharp-%2312100E.svg?&logo=csharp&style=for-the-badge&logoColor=bfacef"/>
     </a>
 </p>
+
 
 ## Technologies
 
@@ -55,7 +59,6 @@ Hi, I'm Yassine
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=NumPy&logoColor=0c6678)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=OpenCV&logoColor=5c7ce8)
 
@@ -66,10 +69,18 @@ Hi, I'm Yassine
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2312100E.svg?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 ![Angular](https://img.shields.io/badge/-Angular-%2312100E.svg?&logo=Angular&style=for-the-badge&logoColor=E23237)
 
-#### Frameworks
+#### MLOps
 
-![Django](https://img.shields.io/badge/Django-%2312100E?style=for-the-badge&logo=DJango&logoColor=68BC71)
-![Flask](https://img.shields.io/badge/Flask-%2312100E?style=for-the-badge&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2312100E?style=for-the-badge&logo=FastAPI&logoColor=64c4b4)
+![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
+![DVC](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=dataversioncontrol&logoColor=purple)
+
+#### Data Analysis
+
+![PowerBI](https://img.shields.io/badge/PowerBI-%2312100E?style=for-the-badge&logo=PowerBI)
+![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
