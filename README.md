@@ -61,6 +61,7 @@ Hi, I'm Yassine
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=NumPy&logoColor=0c6678)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=OpenCV&logoColor=5c7ce8)
+![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Web Development
 
@@ -71,16 +72,21 @@ Hi, I'm Yassine
 
 #### MLOps
 
+![AWS SageMaker](https://img.shields.io/badge/aws-%2312100E?style=for-the-badge&logo=amazonaws)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2312100E?style=for-the-badge&logo=FastAPI&logoColor=009688)
+![Streamlit](https://img.shields.io/badge/-Streamlit-%2312100E.svg?&logo=Streamlit&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![WandB](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
 ![DataVersionContro](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=DVC&logoColor=13ADC7)
 
-#### Data Analysis
+#### Databases & Visualization
 
+![MySQL](https://img.shields.io/badge/MySQL-%2312100E?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E?style=for-the-badge&logo=MongoDB)
+![Tableau](https://img.shields.io/badge/Tableau-%2312100E?style=for-the-badge&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%2312100E?style=for-the-badge&logo=PowerBI)
-![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-%2312100E?style=for-the-badge&logo=Looker)
 
 ---
 
