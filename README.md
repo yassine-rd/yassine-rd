@@ -17,7 +17,7 @@ Hi, I'm Yassine
 </div>
 
 <pre>
-💻 I'm currently a Data Scientist Intern at Groupe-SII in France
+💻 I'm currently an AI Engineer Intern at Groupe-SII in France
 🧬 Working on a project that involves building a multimodal ML system for recognizing medical document images
 🔭 I have a keen interest in artificial intelligence, human-computer interaction, and everything in between
 🌱 Learning about MLOps and advanced Computer Vision stuff
