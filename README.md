@@ -44,10 +44,10 @@ Hi, I'm Yassine
         <img alt="Java" src="https://img.shields.io/badge/-Java-%2312100E.svg?logo=Java&logoColor=blue&style=for-the-badge"/>
     </a>
     <a target="_blank">
-        <img alt="Swift" src="https://img.shields.io/badge/Swift-%2312100E.svg?&logo=swift&style=for-the-badge"/>
+        <img alt="Cpp" src="https://img.shields.io/badge/C++-%2312100E.svg?&logo=cplusplus&style=for-the-badge&logoColor=00599C"/>
     </a>
     <a target="_blank">
-        <img alt="C#" src="https://img.shields.io/badge/Csharp-%2312100E.svg?&logo=csharp&style=for-the-badge&logoColor=239120"/>
+        <img alt="Swift" src="https://img.shields.io/badge/Swift-%2312100E.svg?&logo=swift&style=for-the-badge"/>
     </a>
 </p>
 
@@ -73,20 +73,21 @@ Hi, I'm Yassine
 #### MLOps
 
 ![AWS SageMaker](https://img.shields.io/badge/aws-%2312100E?style=for-the-badge&logo=amazonaws)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2312100E?style=for-the-badge&logo=FastAPI&logoColor=009688)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
+![MLflow](https://img.shields.io/badge/MLflow-%2312100E?style=for-the-badge&logo=MLFlow)
+![DataVersionControl](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=DVC&logoColor=13ADC7)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-%2312100E.svg?&logo=Streamlit&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2312100E?style=for-the-badge&logo=FastAPI&logoColor=009688)
 ![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/flask-%2312100E.svg?style=for-the-badge&logo=flask&logoColor=white)
-![WandB](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
-![DataVersionContro](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=DVC&logoColor=13ADC7)
 
 #### Databases & Visualization
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2312100E?style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2312100E?style=for-the-badge&logo=MongoDB)
+![Postgresql](https://img.shields.io/badge/postgresql-%2312100E?style=for-the-badge&logo=postgresql)
+![Mriadb](https://img.shields.io/badge/mariadb-%2312100E?style=for-the-badge&logo=mariadb&logoColor=13ADC7)
 ![Tableau](https://img.shields.io/badge/Tableau-%2312100E?style=for-the-badge&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%2312100E?style=for-the-badge&logo=PowerBI)
-![Looker](https://img.shields.io/badge/Looker-%2312100E?style=for-the-badge&logo=Looker)
 
 ---
 
