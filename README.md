@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Yassine
+hi, Yassine here.
  <a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  </a>
@@ -7,7 +7,7 @@ Hi, I'm Yassine
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=AI+Engineer;Deep+Learning+Enthusiast;Clean+Code+Evangelist">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Software+Engineer;AI+Developer;Deep+Learning+Enthusiast;Clean+Code+Evangelist">
   </a>
 </p>
 
@@ -17,10 +17,10 @@ Hi, I'm Yassine
 </div>
 
 <pre>
-💻 AI engineering graduate with a focus on computer vision.
-🧬 Worked on topics such as artificial intelligence, software engineering, computer vision and UX design.
-🔭 I have a keen interest in data science and human-computer interactions.
-🌱 Learning about MLOps and advanced computer vision stuff.
+💻 I’m a software engineering graduate with a focus on AI.
+🔭 Worked on topics such as artificial intelligence, computer vision and UX design.
+🧬 I have a keen interest in biotechnology and human-computer interactions.
+🤖 Learning about MLOps and multi-agent systems.
 📬 How to reach me: <a href="mailto:yassine.rodani@gmail.com">yassine.rodani@gmail.com</a>
 </pre>
 ---
