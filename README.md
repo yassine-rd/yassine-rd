@@ -1,8 +1,5 @@
 <h1 align="center">
 hi, Yassine here.
- <a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
- </a>
 </h1>
 
 <p align="center">
@@ -17,10 +14,10 @@ hi, Yassine here.
 </div>
 
 <pre>
-💻 I’m a software engineering graduate with a focus on AI.
-🔭 Worked on topics such as transformers, object detection and tracking, and UX design.
+💻 I’m a software engineer @ Dreampath Diagnostics.
+🔭 Worked on topics such as transformer, explainable AI, object tracking and image analysis.
 🧬 I have a keen interest in biotechnology and human-computer interactions.
-🤖 Learning about MLOps, multi-agent systems, and explainable AI.
+🤖 Learning about MLOps and multi-agent systems.
 📬 How to reach me: <a href="mailto:yassine.rodani@gmail.com">yassine.rodani@gmail.com</a>
 </pre>
 ---
@@ -28,6 +25,10 @@ hi, Yassine here.
 ## Languages
 
 <p>
+    </a>
+        <a target="_blank">
+        <img alt="C#" src="https://img.shields.io/badge/Csharp-%2312100E.svg?&logo=csharp&style=for-the-badge&logoColor=239120"/>
+    </a>
     <a target="_blank">
         <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/>
     </a>
@@ -45,13 +46,6 @@ hi, Yassine here.
     </a>
     <a target="_blank">
         <img alt="Cpp" src="https://img.shields.io/badge/C++-%2312100E.svg?&logo=cplusplus&style=for-the-badge&logoColor=00599C"/>
-    </a>
-        <a target="_blank">
-        <img alt="C#" src="https://img.shields.io/badge/Csharp-%2312100E.svg?&logo=csharp&style=for-the-badge&logoColor=239120"/>
-    </a>
-    <a target="_blank">
-        <img alt="Swift" src="https://img.shields.io/badge/Swift-%2312100E.svg?&logo=swift&style=for-the-badge"/>
-    </a>
 </p>
 
 
@@ -71,11 +65,11 @@ hi, Yassine here.
 #### Frameworks
 
 ![DotNet](https://img.shields.io/badge/.NET_Framework-%2312100E.svg?style=for-the-badge&logo=Dotnet&logoColor=512BD4)
+![DotNet](https://img.shields.io/badge/ML.NET-%2312100E.svg?style=for-the-badge&logo=Dotnet&logoColor=512BD4)
 ![Angular](https://img.shields.io/badge/-Angular-%2312100E.svg?&logo=Angular&style=for-the-badge&logoColor=E23237)
 
 #### MLOps
 
-![AWS SageMaker](https://img.shields.io/badge/aws-%2312100E?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-%2312100E?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
 ![WandB](https://img.shields.io/badge/Weights_&_Biases-%2312100E?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow)
 ![MLflow](https://img.shields.io/badge/MLflow-%2312100E?style=for-the-badge&logo=MLFlow)
@@ -89,8 +83,6 @@ hi, Yassine here.
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2312100E?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/postgresql-%2312100E?style=for-the-badge&logo=postgresql)
-![Mriadb](https://img.shields.io/badge/mariadb-%2312100E?style=for-the-badge&logo=mariadb&logoColor=13ADC7)
-![Tableau](https://img.shields.io/badge/Tableau-%2312100E?style=for-the-badge&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%2312100E?style=for-the-badge&logo=PowerBI)
 
 ---
